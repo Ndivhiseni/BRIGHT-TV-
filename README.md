@@ -65,14 +65,7 @@ Users by Province
 Watch Time by Channel
 Usage by Day and Hour
 Demographic Analysis
-## Project Structure
-BrightTV-Viewership-Analysis/
-│
-├── data/                # Raw or sample datasets
-├── sql/                 # SQL queries used in analysis
-├── visuals/             # Charts and screenshots
-├── presentation/        # Canva or PowerPoint slides
-└── README.md
+
 ## Learnings
 Handling real-world messy data (NULLs, inconsistent formats)
 Writing efficient SQL queries for analysis
